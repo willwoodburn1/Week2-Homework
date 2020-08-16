@@ -1,0 +1,8 @@
+.navbar-brand {
+    position: relative;
+    left: 30px;
+  }
+  .navbar-nav {
+    position: absolute;
+    right: 30px;
+  }
