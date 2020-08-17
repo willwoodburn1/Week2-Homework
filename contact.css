@@ -1,23 +1,65 @@
 .navbar-brand {
     position: relative;
     left: 30px;
+    background-color: rgb(7, 160, 160);
+    width: 10em;
+    height: 3em;
   }
   .navbar-nav {
     position: absolute;
     right: 30px;
   }
 
+  .navbar {
+    height: 5em;
+  }
+
   body {
     background-color: lightgrey;
   }
 
-  .col-lg-12 {
-    border: 1px solid red;
-    height: 400px;
+  .col-lg-10 {
+    height: 650px;
     background-color: white;
+    position: relative;
+    right: 70px;
+    
   }
 
+  .col-lg-8 {
+    top: 75px;
+  }
+
+  .btn-primary {
+    position: relative;
+    top: 100px;
+    height: 3.5em;
+    width: 7em;
+  }
+
+  h1 {
+    font-family: serif;
+    font-weight: 40px ;
+    position: relative;
+    top: 25px;
+    left: 20px;
+    color: rgb(7, 160, 160);
+  }
+
+  .container {
+    margin-top: 100px;
+  }
+
+    
+  footer {
+  padding: 2.2em;
+  margin-top: 110px;
+  background-color: rgb(82, 80, 80);
+  border-top: 3px solid aqua;
   
+  
+
+  }
     
 
 
