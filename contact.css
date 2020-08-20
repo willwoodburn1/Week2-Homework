@@ -22,8 +22,11 @@
     height: 650px;
     background-color: white;
     position: relative;
-    
-    
+  }
+
+  #writing {
+    color: white;
+    text-align: center;
   }
 
   .col-lg-8 {
